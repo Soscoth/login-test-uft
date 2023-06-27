@@ -35,3 +35,8 @@ pipeline {
         }
     }
 }
+ 
+ 
+
+echo "test";
+echo "test2";
