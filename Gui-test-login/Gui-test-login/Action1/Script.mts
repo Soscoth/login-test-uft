@@ -8,7 +8,8 @@ Browser("Advantage Shopping").Page("Advantage Shopping").Link("Sign out").Click
 print  "hello got"
 print  "hello"
 
-print  "test version 2"
+
+
 wait 5
 
 
